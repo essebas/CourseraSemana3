@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Coursera Semana 3</string>
+
+
+    <string name="txv_title">Welcome</string>
+    <string name="btn_entrar">Enter</string>
+    <string name="btn_configuracion">Configuration</string>
+    <string name="btn_salir">Exit</string>
+
+</resources>

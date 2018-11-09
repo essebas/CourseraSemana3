@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coursera Semana 3</string>
+
+
+    <string name="txv_title">Bienvenido</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_configuracion">Configuración</string>
+    <string name="btn_salir">Salir</string>
+
+
+</resources>
